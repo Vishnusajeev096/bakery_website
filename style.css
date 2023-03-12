@@ -22,6 +22,9 @@ body {
     font-family: 'Alfa Slab One', cursive;
     font-weight: lighter;
 }
+#logotxt:hover{
+    color: gray;
+}
 
 .hm {
     margin-left: 500px;
